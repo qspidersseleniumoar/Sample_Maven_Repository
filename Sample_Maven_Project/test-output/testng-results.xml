@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="132" started-at="2018-10-07T07:57:37Z" finished-at="2018-10-07T07:57:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="132" started-at="2018-10-07T07:57:37Z" finished-at="2018-10-07T07:57:37Z">
+      <class name="com.crm.test.LogOut">
+        <test-method status="PASS" signature="Validate()[pri:0, instance:com.crm.test.LogOut@1057a39]" name="Validate" duration-ms="3" started-at="2018-10-07T13:27:37Z" finished-at="2018-10-07T13:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validate -->
+      </class> <!-- com.crm.test.LogOut -->
+      <class name="com.crm.test.Login">
+        <test-method status="PASS" signature="CreateAccount()[pri:0, instance:com.crm.test.Login@1604f19]" name="CreateAccount" duration-ms="49" started-at="2018-10-07T13:27:37Z" finished-at="2018-10-07T13:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccount -->
+        <test-method status="PASS" signature="UpdateAccount()[pri:0, instance:com.crm.test.Login@1604f19]" name="UpdateAccount" duration-ms="2" started-at="2018-10-07T13:27:37Z" finished-at="2018-10-07T13:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateAccount -->
+      </class> <!-- com.crm.test.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
